@@ -1,0 +1,39 @@
+BAYANI BITE — OFFLINE DASHBOARD
+
+1. Double-click BAYANI_BITE_Dashboard.html.
+2. Open it in Microsoft Edge, Google Chrome, or a modern browser.
+3. No installation, login, server, or internet connection is required.
+
+EXPLORE
+- Change the network metric and week range.
+- Choose a branch to inspect Week 12 peak/nonpeak evidence.
+- Select pilot options A–E to recalculate costs, uplift, impacts and feasibility.
+- Expand the evidence notes for definitions, formulas, source cautions and chapter applications.
+
+BEFORE SUBMISSION
+- Board Bulletin 01 is applied: budget 27k; C weekly benefit 1k–4k; C cost 8k.
+- Recommended plan is now A. The original C recommendation is preserved.
+- Use Restore Bulletin 01 to return to the official updated inputs.
+- Complete the AI notes with a real follow-up challenge and your evaluation.
+- Review the proposed operational target if you change the pilot.
+- Click Download current dashboard snapshot to save applied settings and notes into a new HTML file.
+- Open that downloaded file to verify it works before submitting it.
+- Include one screenshot. The supplied screenshots show the updated Bulletin 01 state;
+  capture a new screenshot if your final scenario changes.
+
+FILES
+BAYANI_BITE_Dashboard.html — interactive, standalone deliverable.
+Dashboard_Overview.png — updated dashboard screenshot.
+Dashboard_Pilot.png — updated pilot selector screenshot.
+Dashboard_Full.png — complete updated dashboard screenshot.
+Dashboard_Mobile.png — mobile layout screenshot.
+
+DATA AND VERIFICATION
+The five supplied CSV files are embedded in the HTML; no separate files are required to run it.
+Historical data remain unchanged when scenario inputs change.
+Source-based Python checks independently verified KPIs, pilot arithmetic, branch/daypart
+reconciliations and survey total. Browser tests checked all 32 option combinations, data
+controls, budget edge cases, scenario inputs, exported-state persistence and mobile overflow.
+
+Local browser saving is best-effort. Use Download current dashboard snapshot to preserve
+your final applied scenario and notes across computers.
