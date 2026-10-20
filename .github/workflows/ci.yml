@@ -97,7 +97,7 @@ jobs:
         run: python scripts/compute_all_models.py
 
       - name: Upload model snapshot evidence
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: medshield-model-snapshot
           if-no-files-found: error
